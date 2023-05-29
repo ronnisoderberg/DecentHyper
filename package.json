@@ -1,0 +1,16 @@
+{
+  "name": "microservicetest",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "corestore": "^6.6.0",
+    "graceful-goodbye": "^1.2.1",
+    "hyperbee": "^2.12.0",
+    "hypercore": "^10.11.0",
+    "hyperswarm": "^4.4.1",
+    "latlon-geohash": "^2.0.0",
+    "node-fetch": "^3.3.1"
+  }
+}
